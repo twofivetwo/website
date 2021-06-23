@@ -1,3 +1,4 @@
 .unwanted_DS_Store
 *~
 tmp/
+*.code-workspace
